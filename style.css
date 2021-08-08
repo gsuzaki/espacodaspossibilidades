@@ -499,7 +499,7 @@ footer {
 footer img {
   border-radius: 50%;
   position: relative;
-  width: 10rem;
+  width: 2.5rem;
   height: auto;
 }
 
@@ -684,6 +684,13 @@ footer .social a:hover {
     align-items: center;
     justify-content: space-between;
   }
+
+  footer img {
+    border-radius: 50%;
+    position: relative;
+    width: 5rem;
+    height: auto;
+  }  
 
   footer .logo {
     font-size: 2.25rem;
